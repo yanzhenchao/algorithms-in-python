@@ -3,10 +3,10 @@ Basic Algorithms Implemented in Python
 
 
 ###Test File
-* test.py
+test.py
 
 ###Algorithms
-* sort_and_search.py
+sort_and_search.py
   1. Bubble Sort
   2. Selection Sort
   3. Insertion Sort

@@ -3,7 +3,6 @@
 Basic Algorithms Implemented in Python
 
 **Algorithms**
-
 - [sort.py](https://github.com/yanzhenchao/python-algorithms/blob/master/sort_and_search.py)
   - `Bubble Sort`
   - `Selection Sort` 
@@ -17,8 +16,6 @@ Basic Algorithms Implemented in Python
 - [search.py](https://github.com/yanzhenchao/python-algorithms/blob/master/search.py)
   - `Binary Search`
 
-
 **Tests**
-
 - [test_sort.py](https://github.com/yanzhenchao/python-algorithms/blob/master/test_sort_and_search.py)
 - [test_search.py](https://github.com/yanzhenchao/python-algorithms/blob/master/test_sort_and_search.py)

@@ -1,5 +1,5 @@
 import random
-from sort_and_search import *
+from sort import *
 
 # Bubble Sort
 
@@ -62,14 +62,4 @@ print('Heap Sort:\n')
 print('Before:\n', array)
 heap_sort(array)
 print('After:\n', array)
-print('\n')
-
-# Binary Search
-
-array = [random.randint(0, 100) for n in range(40)]
-print('Binary Search:\n')
-quick_sort(array)
-print('List:\n', array)
-key = random.randint(0, 100)
-print('Key:\n', key, '\nFound:\n', binary_search(array, key))
 print('\n')

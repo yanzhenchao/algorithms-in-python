@@ -5,7 +5,6 @@ Basic Algorithms Implemented in Python
 **Algorithms**
 
 - [sort.py](https://github.com/yanzhenchao/python-algorithms/blob/master/sort_and_search.py)
-
   - `Bubble Sort`
   - `Selection Sort` 
   - `Insertion Sort`
@@ -16,7 +15,6 @@ Basic Algorithms Implemented in Python
   - `Radix Sort (Unfinished)`
   
 - [search.py](https://github.com/yanzhenchao/python-algorithms/blob/master/search.py)
-
   - `Binary Search`
 
 

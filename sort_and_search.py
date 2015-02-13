@@ -79,8 +79,6 @@ def merge_sort(array):
             r += 1
             k += 1
 
-
-
 # Quick Sort
 
 def quick_sort(array):

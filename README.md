@@ -1,4 +1,4 @@
-# algorithms_python
+# algorithms-in-python
 *Basic Algorithms Implemented in Python.*
 
 **Algorithms**

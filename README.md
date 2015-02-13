@@ -2,11 +2,13 @@
 
 Basic Algorithms Implemented in Python
 
-###Tests
+**Tests**
+
 [test_sort.py](https://github.com/yanzhenchao/python-algorithms/blob/master/test_sort_and_search.py)
 [test_search.py](https://github.com/yanzhenchao/python-algorithms/blob/master/test_sort_and_search.py)
 
-###Algorithms
+**Algorithms**
+
 [sort.py](https://github.com/yanzhenchao/python-algorithms/blob/master/sort_and_search.py)
 
 - `Bubble Sort`

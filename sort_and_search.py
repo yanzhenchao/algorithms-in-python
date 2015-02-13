@@ -1,4 +1,4 @@
-#1 Bubble Sort
+# Bubble Sort
 
 def bubble_sort(array):
     sort = True
@@ -12,7 +12,7 @@ def bubble_sort(array):
         if sort:
             break
 
-#2 Selection Sort
+# Selection Sort
 
 def selection_sort(array):
     
@@ -23,7 +23,7 @@ def selection_sort(array):
                 min = j
         array[i], array[min] = array[min], array[i]
 
-#3 Insertion Sort
+# Insertion Sort
 
 def insertion_sort(array):
     
@@ -33,7 +33,7 @@ def insertion_sort(array):
             array[j-1], array[j] = array[j], array[j-1]
             j -= 1
 
-#4 Shell Sort
+# Shell Sort
 
 def shell_sort(array):
     
@@ -49,7 +49,7 @@ def shell_sort(array):
                 j -= gap
         gap //= 3
 
-#5 Merge Sort (top-down)
+# Merge Sort (top-down)
 
 def merge_sort(array):
     if len(array) > 1:
@@ -81,7 +81,7 @@ def merge_sort(array):
 
 
 
-#6 Quick Sort
+# Quick Sort
 
 def quick_sort(array):
     if len(array) > 1:
@@ -98,7 +98,7 @@ def quick_sort(array):
         quick_sort(right)
         array[:] = left + [array[key]] + right
 
-#7 Heap Sort
+# Heap Sort
 
 import heapq
 
@@ -106,21 +106,4 @@ def heap_sort(array):
     heapq.heapify(array)
     array[:] = [heapq.heappop(array) for i in range(len(array))]
 
-#8 Radix Sort
-
-#9 Binary Search
-
-def binary_search(array, key):
-    first = 0
-    last = len(array) - 1
-
-    while first <= last:
-        mid = (first + last) // 2
-        if array[mid] == key:
-            return True
-        else:
-            if array[mid] < key:
-                first = mid + 1
-            else:
-                last = mid - 1
-    return False
+# Radix Sort

@@ -2,11 +2,11 @@
 Basic Algorithms Implemented in Python
 
 
-###Test File
-#####test.py
+###Tests
+[test_sort_and_search.py](https://github.com/yanzhenchao/python-algorithms/blob/master/test_sort_and_search.py)
 
 ###Algorithms
-#####sort_and_search.py
+[sort_and_search.py](https://github.com/yanzhenchao/python-algorithms/blob/master/sort_and_search.py)
   1. Bubble Sort
   2. Selection Sort
   3. Insertion Sort

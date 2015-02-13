@@ -9,10 +9,10 @@ Basic Algorithms Implemented in Python
 
 **Algorithms**
 
-[sort.py](https://github.com/yanzhenchao/python-algorithms/blob/master/sort_and_search.py)
+- [sort.py](https://github.com/yanzhenchao/python-algorithms/blob/master/sort_and_search.py)
 
-- `Bubble Sort`
-- `Selection Sort` 
+ - `Bubble Sort`
+ - `Selection Sort` 
 - `Insertion Sort`
 - `Shell Sort`
 - `Merge Sort (Top-Down)`

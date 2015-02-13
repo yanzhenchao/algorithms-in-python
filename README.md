@@ -1,6 +1,5 @@
 # algorithms_python
-
-Basic Algorithms Implemented in Python
+*Basic Algorithms Implemented in Python.*
 
 **Algorithms**
 - [sort.py](https://github.com/yanzhenchao/python-algorithms/blob/master/sort_and_search.py)

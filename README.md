@@ -7,7 +7,7 @@ Basic Algorithms Implemented in Python
 
 ###Algorithms
 * sort_and_search.py
-```
+  ```
 1. Bubble Sort
 2. Selection Sort
 3. Insertion Sort

@@ -1,11 +1,12 @@
 # python-algorithms
-## Basic Algorithms Implemented in Python
+Basic Algorithms Implemented in Python
 
-Test File
+
+###Test File
 * test.py
-Algorithms
+###Algorithms
 * sort_and_search.py
-
+```
 1. Bubble Sort
 2. Selection Sort
 3. Insertion Sort
@@ -15,3 +16,4 @@ Algorithms
 7. Heap Sort
 8. Radix Sort (Unfinished)
 9. Binary Search
+```
